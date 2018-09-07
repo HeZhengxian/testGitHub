@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-duihoa</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="学员档案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pc-安全设置" transform="translate(-629.000000, -306.000000)" fill="#56AF2A">
+            <g id="Group-10" transform="translate(609.000000, 235.000000)">
+                <g id="Group-7" transform="translate(20.000000, 71.000000)">
+                    <path d="M12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 Z M10.1950031,14.5957802 L6.5021099,10.902887 C6.11158561,10.5123627 5.47842063,10.5123627 5.08789634,10.902887 C4.69737205,11.2934113 4.69737205,11.9265762 5.08789634,12.3171005 L9.48789634,16.7171005 C9.87842063,17.1076248 10.5115856,17.1076248 10.9021099,16.7171005 L18.9121037,8.70710678 C19.302628,8.31658249 19.302628,7.68341751 18.9121037,7.29289322 C18.5215794,6.90236893 17.8884144,6.90236893 17.4978901,7.29289322 L10.1950031,14.5957802 Z" id="ic-duihoa"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

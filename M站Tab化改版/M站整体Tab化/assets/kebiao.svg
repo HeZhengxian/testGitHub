@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>kebiao</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="1.72254642e-14%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FEC000" offset="0%"></stop>
+            <stop stop-color="#F8D800" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-110.000000, -98.000000)">
+        <path d="M126,100 L128,100 C129.104569,100 130,100.895431 130,102 L130,117 C130,118.104569 129.104569,119 128,119 L112,119 C110.895431,119 110,118.104569 110,117 L110,102 C110,100.895431 110.895431,100 112,100 L114,100 L114,99.5 C114,98.6715729 114.671573,98 115.5,98 C116.328427,98 117,98.6715729 117,99.5 L117,100 L123,100 L123,99.5 C123,98.6715729 123.671573,98 124.5,98 C125.328427,98 126,98.6715729 126,99.5 L126,100 Z M114,106 C113.447715,106 113,106.447715 113,107 C113,107.552285 113.447715,108 114,108 L126,108 C126.552285,108 127,107.552285 127,107 C127,106.447715 126.552285,106 126,106 L114,106 Z M114,110 C113.447715,110 113,110.447715 113,111 C113,111.552285 113.447715,112 114,112 L117,112 C117.552285,112 118,111.552285 118,111 C118,110.447715 117.552285,110 117,110 L114,110 Z" id="kebiao" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>xuexi-huise</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-191.000000, -59.000000)">
+        <path d="M196,60 L196,76 L207.004911,76 C207.554835,76 208,75.554741 208,75.0049107 L208,60.9950893 C208,60.4451651 207.554741,60 207.004911,60 L196,60 Z M191,60.9950893 C191,59.8932319 191.892623,59 192.995089,59 L207.004911,59 C208.106768,59 209,59.8926228 209,60.9950893 L209,75.0049107 C209,76.1067681 208.107377,77 207.004911,77 L192.995089,77 C191.893232,77 191,76.1073772 191,75.0049107 L191,60.9950893 Z M195,76 L195,60 L193.004882,60 C192.44666,60 192,60.4450487 192,60.9950893 L192,75.0049107 C192,75.5537356 192.448549,76 193.004882,76 L195,76 Z M199,63 L205,63 L205,64 L199,64 L199,63 Z M199,66 L205,66 L205,67 L199,67 L199,66 Z" id="xuexi-huise" fill="#6D6D6E" fill-rule="nonzero"></path>
+    </g>
+</svg>

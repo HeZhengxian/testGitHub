@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-jiahao</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-358.000000, -66.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M373,81 L373,68 C373,66.8954305 373.895431,66 375,66 C376.104569,66 377,66.8954305 377,68 L377,81 L390,81 C391.104569,81 392,81.8954305 392,83 C392,84.1045695 391.104569,85 390,85 L377,85 L377,98 C377,99.1045695 376.104569,100 375,100 C373.895431,100 373,99.1045695 373,98 L373,85 L360,85 C358.895431,85 358,84.1045695 358,83 C358,81.8954305 358.895431,81 360,81 L373,81 Z" id="ic-jiahao"></path>
+        </g>
+    </g>
+</svg>

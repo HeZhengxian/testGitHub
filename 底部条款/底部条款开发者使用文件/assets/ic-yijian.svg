@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-yijian</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-300.000000, -68.000000)" fill="#000000">
+            <path d="M300.806423,68.3922091 C301.138341,68.1457874 301.549582,68 301.995089,68 L316.004911,68 C316.450109,68 316.861249,68.1460304 317.193174,68.3926127 L309,76.5857864 L300.806423,68.3922091 Z M318,70.4142136 L318,82.0059397 C318,83.1072288 317.107377,84 316.004911,84 L301.995089,84 C300.893232,84 300,83.1054862 300,82.0059397 L300,70.4142136 L308.292893,78.7071068 C308.683418,79.0976311 309.316582,79.0976311 309.707107,78.7071068 L318,70.4142136 Z" id="ic-yijian"></path>
+        </g>
+    </g>
+</svg>

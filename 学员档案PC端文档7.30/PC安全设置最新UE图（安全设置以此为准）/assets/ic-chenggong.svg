@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-chenggong</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="学员档案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pc-登录密码修改成功" transform="translate(-964.000000, -329.000000)" fill="#56AF2A">
+            <g id="Group-7" transform="translate(964.000000, 329.000000)">
+                <path d="M20,40 C8.954305,40 0,31.045695 0,20 C0,8.954305 8.954305,0 20,0 C31.045695,0 40,8.954305 40,20 C40,31.045695 31.045695,40 20,40 Z M29.1631502,12.154822 L16.9916719,24.3263003 L10.8368498,18.1714783 C10.185976,17.5206045 9.13070105,17.5206045 8.47982723,18.1714783 C7.82895341,18.8223521 7.82895341,19.8776271 8.47982723,20.5285009 L15.8131606,27.8618342 C16.4640344,28.5127081 17.5193094,28.5127081 18.1701832,27.8618342 L31.5201728,14.5118446 C32.1710466,13.8609708 32.1710466,12.8056959 31.5201728,12.154822 C30.8692989,11.5039482 29.814024,11.5039482 29.1631502,12.154822 Z" id="ic-chenggong"></path>
+            </g>
+        </g>
+    </g>
+</svg>
